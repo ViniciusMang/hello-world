@@ -1,7 +1,4 @@
 # hello-world
-bleh, just one more repository
-
-adding some code here
 #include <stdio.h>
 int main(){
 
@@ -9,5 +6,7 @@ int main(){
 
 return 0;
 }
+
+//endzone
 
 
