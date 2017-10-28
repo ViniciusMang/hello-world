@@ -4,6 +4,7 @@ int main(){
 
   printf("hello world");
 
+// eu amo, eu!
 return 0;
 }
 
