@@ -3,6 +3,8 @@
 int main(){
 
   printf("hello world");
+  
+  TU TÁ RECEBENDO???????
 
 // eu amo, eu!
 return 0;
