@@ -11,9 +11,5 @@ return 0;
 }
 
 //endzone
-
-
-
-
-
 OLÁMIGO!
+ENDZONE NADA!!!!
